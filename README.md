@@ -20,7 +20,7 @@ Com esses dados, ele realiza alguns cálculos e exibe os resultados:
 
 ## 🚀 Como executar
 1. Baixe ou clone este repositório.  
-2. Abra o arquivo **index.html** em qualquer navegador.  
+2. Abra o arquivo **index.html** em qualquer navegador ou clique aqui##https://juliarezende521.github.io/Analise-de-Indicadores-Ambientais-em-Regioes/.  
 3. O programa vai solicitar os dados (regiões, dias e índices de poluição) e exibir os resultados na tela.  
 
 ## 👨‍💻 Tecnologias usadas
